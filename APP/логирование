@@ -1,0 +1,4 @@
+import logging
+
+logger.info("Информационное сообщение (пойдёт в app.log)")
+logger.error("Ошибка! (пойдёт в error.log)")
